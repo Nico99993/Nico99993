@@ -1,4 +1,8 @@
-## Hi there 👋
+## Whatsgood Gng?
+🎓I'm Aditya Raj Bose | 21 yo 
+🌐Competitive Programmer & Full Stack Dev 
+🎯1600 rated on Codeforces 
+👉Hit me up: adityarajbose@gmail.com
 
 <!--
 **Nico99993/Nico99993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
